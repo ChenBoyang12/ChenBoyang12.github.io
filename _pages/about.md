@@ -17,6 +17,8 @@ I am currently a first-year Ph.D. student in Department of Computer Science and 
 
 I earned my bachelor's degrees from Institute for Interdisciplinary Information Sciences, Tsinghua University.
 
+My name in Chinese charcter is 陈博洋.
+
 
 About my website
 ------
