@@ -13,11 +13,9 @@ redirect_from:
 
 About me
 ======
-I am currently a undergraduate senior student in Yao Class, Tsinghua University. I have a broad interest in quantum computer science and mathematics, especially quantum information, quantum algorithm, and algebra.
+I am currently a first-year Ph.D. student in Department of Computer Science and Technology, Tsinghua University, advised by Zhengfeng Ji. My research focuses on quantum cryptography and quantum algorithm. I'm also co-adviased by Andrea Coladangelo at University of Washington.
 
-I was fortunate to be research intern in the group of Xiongfeng Ma in Tsinghua University since September 2021. I was also fortunate to be research intern in the group of Tongyang Li in Peking University since November 2021.
-
-During the spring and summer of 2022, I was fortunate to visit QuICS of univeristy of Maryland, invited by Prof. xiaodi Wu.
+I earned my bachelor's degrees from Institute for Interdisciplinary Information Sciences, Tsinghua University.
 
 
 About my website
