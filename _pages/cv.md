@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* High school diploma in Chengdu, Chengdu Jiaxiang Foreign Languages School, 2019
-* B.Eng. in Beijing, Tsinghua University, 2023(expected)
+* First year Ph.D. student at Tsinghua University
+* B.Eng. at Tsinghua University, 2024 (delayed graduation due to visa issue)
+* Secondary school at Chengdu Jiaxiang Foreign Languages School, 2019
 
-Research 
+<!-- Research 
 ======
 * Spring& Summer 2022: Research Internship
   * University of Maryland
@@ -29,7 +30,7 @@ Research
 * Nov 2021 - : Research Internship
   * Peking University
   * Projects included: quantum algorithm for constructing supersingular isogeny
-  * Supervisor: Professor Tongyang Li
+  * Supervisor: Professor Tongyang Li -->
   
 Skills
 ======
